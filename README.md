@@ -1,1 +1,4 @@
-./compilar.sh# IngestaoDados2rp
+
+Para executar o programa,
+
+./compilar.sh
